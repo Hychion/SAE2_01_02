@@ -5,7 +5,7 @@ public class Mine implements Comparable<Mine>{
     private final int x;
     private final int y;
     private final boolean nickel;
-    private final int quantite;
+    private int quantite;
     private final int max;
     private final int numero;
 
